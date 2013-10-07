@@ -1,0 +1,3 @@
+#HISTORY
+# - /usr/lib/ccache 추가
+PATH="/usr/lib/ccache:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games"
